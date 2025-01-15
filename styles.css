@@ -1,0 +1,15 @@
+.square-container {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    width: 960px;
+    height: 960px;
+    flex-wrap: wrap;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
